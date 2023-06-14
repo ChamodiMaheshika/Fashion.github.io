@@ -1,0 +1,44 @@
+@charset "utf-8";
+body p {
+
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+    color: #D300CE;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #000000;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #000000;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #000000;
+}
+#headingOne1 .mb-0 a {
+    color: #A60973;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #A6029E;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #A6029E;
+}
+
+
+
+
+
+
+.nav-item.active .nav-link h5 {
+    color: #AE00B3;
+}
+.nav-item .nav-link h5 {
+    color: #BB00D0;
+}
+
+
+
+.container-fluid {
+
+}
